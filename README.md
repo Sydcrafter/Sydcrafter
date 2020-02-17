@@ -1,0 +1,2 @@
+# Sydcrafter
+Miner and Crafter
